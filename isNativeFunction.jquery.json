@@ -1,0 +1,32 @@
+{
+  "name": "isNativeFunction",
+  "title": "jquery.isNativeFunction",
+  "description": "A jQuery plugin that adds a static `isNativeFunction` method to check if an object is actually a host object function.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/JamesMGreene/jquery.isNativeFunction",
+  "author": {
+    "name": "James M. Greene",
+    "email": "james.m.greene@gmail.com",
+    "url": "http://jamesgreene.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamesMGreene/jquery.isNativeFunction.git"
+  },
+  "bugs": "https://github.com/JamesMGreene/jquery.isNativeFunction/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/JamesMGreene/jquery.isNativeFunction/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.0"
+  },
+  "keywords": [
+    "isNativeFunction",
+    "isFunction",
+    "type",
+    "typeof"
+  ]
+}
