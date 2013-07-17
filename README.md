@@ -53,5 +53,8 @@ jQuery.isNativeFunction(jQuery);  // false
 _(Coming soon)_
 
 ## Release History
+ - 1.0.1: Published to the jQuery Plugins Registry on 2013-07-16.
+     - Updated plugin description in the manifest.
+     - Added Travis test config for Node.js 0.10.x.
  - 1.0.0: Published to the jQuery Plugins Registry on 2013-07-16.
      - Initial release.
