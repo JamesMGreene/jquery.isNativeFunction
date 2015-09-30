@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JamesMGreene/jquery.isNativeFunction.png)](https://travis-ci.org/JamesMGreene/jquery.isNativeFunction)
+[![Build Status](https://travis-ci.org/JamesMGreene/jquery.isNativeFunction.png?branch=master)](https://travis-ci.org/JamesMGreene/jquery.isNativeFunction)
 
 # jquery.isNativeFunction
 
