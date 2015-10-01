@@ -2,12 +2,12 @@
   "name": "isNativeFunction",
   "title": "jquery.isNativeFunction",
   "description": "A jQuery plugin that adds a static `isNativeFunction` method to determine if an object is actually a browser's native host object function.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/JamesMGreene/jquery.isNativeFunction",
   "author": {
     "name": "James M. Greene",
     "email": "james.m.greene@gmail.com",
-    "url": "http://jamesgreene.net/"
+    "url": "http://greene.io/"
   },
   "repository": {
     "type": "git",
